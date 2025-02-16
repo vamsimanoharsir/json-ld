@@ -27,7 +27,7 @@ export async function generateMetadata(): Promise<Metadata> {
         },
       ],
       type: "website",
-      siteName: "Vamsi Blog",
+      siteName: "Vamsi' Blog",
     },
   };
 }
